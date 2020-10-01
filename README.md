@@ -1,2 +1,2 @@
 # behaviourCollector
-method to collect all behaviours from a phase portrait of 2state FBCA
+This git project contains a method to visually display all behaviours detected by a phase portrait of a 2 state FBCA.  
