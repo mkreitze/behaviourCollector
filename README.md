@@ -10,7 +10,7 @@ The following is each phase portrait with associated found behaviours.
      style="float: left; margin-right: 10px;" />
 
 This generates the following behaviours (final L_g for standard parameters)
-<img src="https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png"
+<img src="behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
