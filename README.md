@@ -6,12 +6,13 @@ The following is each phase portrait with associated found behaviours.
 **8000 point standard phase portrait**
 # for some reason I need to use the htlm method for this shit
 <img src="1200PhasePortDeci.png"
-     alt="Markdown Monster icon"
+     alt="1200 standard phase port"
      style="float: left; margin-right: 10px;" />
 
 This generates the following behaviours (final L_g for standard parameters)
+
 <img src="behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png"
-     alt="Markdown Monster icon"
+     alt="behaviour1gen19 1200 standard"
      style="float: left; margin-right: 10px;" />
 
 ![1](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png)
