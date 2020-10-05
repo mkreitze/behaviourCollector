@@ -14,6 +14,10 @@ This generates the following behaviours (final L_g for standard parameters)
 <img src="./1200PhasePortDecibRfile/behaviour1Gen19.png"
      alt="behaviour1gen19 1200 standard"
      style="float: left; margin-right: 10px;" />
+<img src="./1200PhasePortDecibRfile/behaviour2Gen19.png"
+     alt="behaviour1gen19 1200 standard"
+     style="float: left; margin-right: 10px;" />
 
+Below is the associated gifs used to generate them
 ![1](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png)
 ![1gif](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/1.gif)
