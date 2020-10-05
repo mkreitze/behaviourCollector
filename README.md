@@ -5,7 +5,7 @@ The following is each phase portrait with associated found behaviours.
 
 **8000 point standard phase portrait**
 
-![1200 Standard Phase](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDeci.png)
+![1200StandardPhase](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDeci.png)
 
 This generates the following behaviours (final L_g for standard parameters)
 
