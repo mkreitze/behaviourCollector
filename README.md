@@ -4,4 +4,6 @@ This git project contains a method to visually display all behaviours detected b
 The following is each phase portrait with associated found behaviours.
 
 * **8000 point standard phase portrait**
-![2000StandardPhase](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibR%20file/1200PhasePortDeci)
+![1200StandardPhase](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDeci.png)
+This generates the following behaviours (final L_g for standard parameters)
+!(https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibR file/behaviour1 Gen19.png)
