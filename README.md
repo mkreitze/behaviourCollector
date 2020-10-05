@@ -5,9 +5,7 @@ The following is each phase portrait with associated found behaviours.
 
 **8000 point standard phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="8000PhasePortDeci.png" alt="8000 standard phase port" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
