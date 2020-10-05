@@ -4,13 +4,15 @@ This git project contains a method to visually display all behaviours detected b
 The following is each phase portrait with associated found behaviours.
 
 **8000 point standard phase portrait**
-
+# for some reason I need to use the htlm method for this shit
 <img src="1200PhasePortDeci.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-![1200StandardPhase](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDeci.png)
 
 This generates the following behaviours (final L_g for standard parameters)
+<img src="https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ![1](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png)
 ![1gif](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/1.gif)
