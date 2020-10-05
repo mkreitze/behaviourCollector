@@ -4,7 +4,70 @@ This git project contains a method to visually display all behaviours detected b
 The following is each phase portrait with associated found behaviours.
 
 **8000 point standard phase portrait**
-# for some reason I need to use the htlm method for this shit
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+**de Brujin conditioned (1 update) phase portrait**
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+**de Brujin conditioned (40 update)phase portrait**
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+**(6x6) Torus size phase portrait**
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+**(46x46) Torus size phase portrait**
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+**10 Update phase portrait**
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+**40 Update phase portrait**
+<img src="8000PhasePortDeci.png"
+     alt="8000 standard phase port"
+     style="float: left; margin-right: 10px;" />
+
+This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
+
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
+
+
+**1200 point standard phase portrait**
 <img src="1200PhasePortDeci.png"
      alt="1200 standard phase port"
      style="float: left; margin-right: 10px;" />
