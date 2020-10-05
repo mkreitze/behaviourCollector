@@ -61,9 +61,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **10 Update phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="updateRunDeci10.png" alt="updateRunDeci10" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
@@ -71,9 +69,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **40 Update phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="updateRunDeci40.png" alt="updateRunDeci40" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
