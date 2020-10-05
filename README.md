@@ -13,17 +13,11 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **1200 point standard phase portrait**
 
-<img src="1200PhasePortDeci.png"
-     alt="1200 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="1200PhasePortDeci.png" alt="1200 standard phase port" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
-<img src="./1200PhasePortDecibRfile/behaviour1Gen19.png"
-     alt="behaviour1gen19 1200 standard"
-     style="float: left; margin-right: 10px;" />" <img src="./1200PhasePortDecibRfile/behaviour2Gen19.png"
-     alt="behaviour2gen19 1200 standard"
-     style="float: left; margin-right: 10px;" />"
+<img src="./1200PhasePortDecibRfile/behaviour1Gen19.png" alt="behaviour1gen19 1200 standard" style="float: left; margin-right: 10px;" />" <img src="./1200PhasePortDecibRfile/behaviour2Gen19.png" alt="behaviour2gen19 1200 standard" style="float: left; margin-right: 10px;" />"
 <img src="./1200PhasePortDecibRfile/behaviour3Gen19.png"
      alt="behaviour3gen19 1200 standard"
      style="float: left; margin-right: 10px;" />"
