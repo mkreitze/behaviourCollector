@@ -4,4 +4,4 @@ This git project contains a method to visually display all behaviours detected b
 The following is each phase portrait with associated found behaviours.
 
 * 8000 point standard phase portrait
-![GitHub Logo](/8000PhasePortDecibR file/8000PhasePortDeci.png)
+![8000Phase](/8000PhasePortDecibR file/8000PhasePortDeci.png)
