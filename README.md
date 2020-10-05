@@ -238,7 +238,7 @@ This generates the following 75 behaviours (visualized as the final L_g for stan
      style="float: left; margin-right: 10px;" />"
 
 
-Below is the associated gifs used to generate them
+Below is the associated gifs used to generate them. The 'stability' of each behaviour can be seen by their gifs.
 
 <img src="./1200PhasePortDecibRfile/1.gif"
      alt="behaviour1gif 1200 standard"
