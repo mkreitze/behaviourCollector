@@ -49,9 +49,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **(6x6) Torus size phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="sizeRunDeci6.png" alt="8000 standard phase port" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
