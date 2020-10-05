@@ -4,4 +4,5 @@ This git project contains a method to visually display all behaviours detected b
 The following is each phase portrait with associated found behaviours.
 
 * **8000 point standard phase portrait**
+![2 State 10x10x10](https://github.com/mkreitze/3DFBCA/blob/master/10x10x10%202state.gif)
 ![2000StandardPhase](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDeci)
