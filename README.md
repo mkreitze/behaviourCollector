@@ -29,9 +29,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **de Brujin conditioned (1 update) phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="dBUpdateRunDeci1.png" alt="dB g=1 phase port" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
@@ -39,9 +37,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **de Brujin conditioned (40 update)phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="dBUpdateRunDeci40.png" alt="dB g=40 phase port" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
@@ -49,7 +45,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **(6x6) Torus size phase portrait**
 
-<img src="sizeRunDeci6.png" alt="8000 standard phase port" style="float: left; margin-right: 10px;" />
+<img src="sizeRunDeci6.png" alt="sizeRunDeci6" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
@@ -57,9 +53,7 @@ Below is the associated gifs used to generate them. The 'stability' of each beha
 
 **(46x46) Torus size phase portrait**
 
-<img src="8000PhasePortDeci.png"
-     alt="8000 standard phase port"
-     style="float: left; margin-right: 10px;" />
+<img src="sizeRunDeci46.png" alt="sizeRunDeci46" style="float: left; margin-right: 10px;" />
 
 This generates the following 75 behaviours (visualized as the final L_g for standard parameters)
 
