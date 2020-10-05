@@ -112,7 +112,7 @@ def genIm(CAMap,n,directory=os.getcwd(),brNum=' '):
         for y in range(CAWidth):
             im.putpixel((x,y),colourConvert(CAMap[x][y].state))
     if(n==(numOfGens-1)):
-        im.save(directory+"behaviour"+str(brNum)+"Gen"+str(n)+".png")
+        im.save(directory+"behaviour"+str(brNum[:-1])+"Gen"+str(n)+".png")
     return(im)
 
 #took folder creation function from https://gist.github.com/keithweaver/562d3caa8650eefe7f84fa074e9ca949
