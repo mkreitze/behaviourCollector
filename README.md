@@ -11,7 +11,7 @@ The following is each phase portrait with associated found behaviours.
 
 This generates the following behaviours (final L_g for standard parameters)
 
-<img src="../1200PhasePortDecibRfile/behaviour1Gen19.png"
+<img src="./1200PhasePortDecibRfile/behaviour1Gen19.png"
      alt="behaviour1gen19 1200 standard"
      style="float: left; margin-right: 10px;" />
 
