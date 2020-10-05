@@ -1,7 +1,8 @@
 # behaviourCollector
 This git project contains a method to visually display all behaviours detected by a phase portrait of a 2 state FBCA. The code used to generate phase portraits can be accessed at https://github.com/mkreitze/mastersThesis.
 
-The following is each phase portrait with associated found behaviours.
+The following is each phase portrait with associated found behaviours. Note, for all of the phase portraits, the parameters used to generate the phase portraits were used. 
+For example, the 10 update phase portrait showcases L_10's and associated 10 update behaviours. This better visualizes what the phase portrait represents.
 
 **8000 point standard phase portrait**
 
