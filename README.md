@@ -10,4 +10,4 @@ The following is each phase portrait with associated found behaviours.
 This generates the following behaviours (final L_g for standard parameters)
 
 ![1](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/behaviour1Gen19.png)
-![1](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/1.gif)
+![1gif](https://github.com/mkreitze/behaviourCollector/tree/master/1200PhasePortDecibRfile/1.gif)
